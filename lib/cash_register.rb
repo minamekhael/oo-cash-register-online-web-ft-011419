@@ -26,6 +26,6 @@ end
   end
   
   def void_last_transaction
-    @total.shift
+    @items.pop
   end
 end
