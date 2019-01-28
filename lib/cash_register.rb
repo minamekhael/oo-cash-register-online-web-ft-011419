@@ -22,5 +22,5 @@ class CashRegister
 end
 
   def items
-    ["eggs, "]
+    ["eggs, "tomoto", ]
 end
