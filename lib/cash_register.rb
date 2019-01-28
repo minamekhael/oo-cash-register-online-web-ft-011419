@@ -21,4 +21,6 @@ class CashRegister
   end
 end
 
+  def items
+    ["eggs, "]
 end
