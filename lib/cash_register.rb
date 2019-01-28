@@ -24,4 +24,7 @@ end
   def items
     ["eggs", "tomato", "tomato", "tomato" ]
   end
+  
+  def void_last_transaction
+  end
 end
